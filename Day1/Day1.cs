@@ -28,7 +28,8 @@ class Day1 {
                     type--; 
                 }
             }
-            string mensajeRespuesta = (resultado % 10 == 0) ? $"Tarjeta con #{number} valida" : "Tarjeta incorrecta";
+            string mensajeRespuesta = (resultado % 10 == 0) ? 
+            $"Tarjeta con #{number} valida" : "Tarjeta incorrecta";
             WriteLine(mensajeRespuesta);
         }
         catch(Exception ex){
