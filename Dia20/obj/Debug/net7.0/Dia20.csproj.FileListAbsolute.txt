@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Escritorio\Mio\Programacion\30DaysCodePanthers\Dia20\obj\Debug\net7.0\Dia20.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Escritorio\Mio\Programacion\30DaysCodePanthers\Dia20\obj\Debug\net7.0\Dia20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Escritorio\Mio\Programacion\30DaysCodePanthers\Dia20\obj\Debug\net7.0\Dia20.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Escritorio\Mio\Programacion\30DaysCodePanthers\Dia20\obj\Debug\net7.0\Dia20.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\Mio\Programacion\30DaysCodePanthers\Dia20\obj\Debug\net7.0\Dia20.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\Mio\Programacion\30DaysCodePanthers\Dia20\bin\Debug\net7.0\Dia20.exe
+C:\Users\danie\OneDrive\Escritorio\Mio\Programacion\30DaysCodePanthers\Dia20\bin\Debug\net7.0\Dia20.deps.json
+C:\Users\danie\OneDrive\Escritorio\Mio\Programacion\30DaysCodePanthers\Dia20\bin\Debug\net7.0\Dia20.runtimeconfig.json
+C:\Users\danie\OneDrive\Escritorio\Mio\Programacion\30DaysCodePanthers\Dia20\bin\Debug\net7.0\Dia20.dll
+C:\Users\danie\OneDrive\Escritorio\Mio\Programacion\30DaysCodePanthers\Dia20\bin\Debug\net7.0\Dia20.pdb
+C:\Users\danie\OneDrive\Escritorio\Mio\Programacion\30DaysCodePanthers\Dia20\obj\Debug\net7.0\Dia20.dll
+C:\Users\danie\OneDrive\Escritorio\Mio\Programacion\30DaysCodePanthers\Dia20\obj\Debug\net7.0\refint\Dia20.dll
+C:\Users\danie\OneDrive\Escritorio\Mio\Programacion\30DaysCodePanthers\Dia20\obj\Debug\net7.0\Dia20.pdb
+C:\Users\danie\OneDrive\Escritorio\Mio\Programacion\30DaysCodePanthers\Dia20\obj\Debug\net7.0\Dia20.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Escritorio\Mio\Programacion\30DaysCodePanthers\Dia20\obj\Debug\net7.0\ref\Dia20.dll
