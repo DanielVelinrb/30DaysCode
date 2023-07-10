@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Escritorio\Mio\Programacion\30DaysCodePanthers\Dia21\bin\Debug\net7.0\Dia21.exe
+C:\Users\danie\OneDrive\Escritorio\Mio\Programacion\30DaysCodePanthers\Dia21\bin\Debug\net7.0\Dia21.deps.json
+C:\Users\danie\OneDrive\Escritorio\Mio\Programacion\30DaysCodePanthers\Dia21\bin\Debug\net7.0\Dia21.runtimeconfig.json
+C:\Users\danie\OneDrive\Escritorio\Mio\Programacion\30DaysCodePanthers\Dia21\bin\Debug\net7.0\Dia21.dll
+C:\Users\danie\OneDrive\Escritorio\Mio\Programacion\30DaysCodePanthers\Dia21\bin\Debug\net7.0\Dia21.pdb
+C:\Users\danie\OneDrive\Escritorio\Mio\Programacion\30DaysCodePanthers\Dia21\obj\Debug\net7.0\Dia21.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Escritorio\Mio\Programacion\30DaysCodePanthers\Dia21\obj\Debug\net7.0\Dia21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Escritorio\Mio\Programacion\30DaysCodePanthers\Dia21\obj\Debug\net7.0\Dia21.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Escritorio\Mio\Programacion\30DaysCodePanthers\Dia21\obj\Debug\net7.0\Dia21.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\Mio\Programacion\30DaysCodePanthers\Dia21\obj\Debug\net7.0\Dia21.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\Mio\Programacion\30DaysCodePanthers\Dia21\obj\Debug\net7.0\Dia21.dll
+C:\Users\danie\OneDrive\Escritorio\Mio\Programacion\30DaysCodePanthers\Dia21\obj\Debug\net7.0\refint\Dia21.dll
+C:\Users\danie\OneDrive\Escritorio\Mio\Programacion\30DaysCodePanthers\Dia21\obj\Debug\net7.0\Dia21.pdb
+C:\Users\danie\OneDrive\Escritorio\Mio\Programacion\30DaysCodePanthers\Dia21\obj\Debug\net7.0\Dia21.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Escritorio\Mio\Programacion\30DaysCodePanthers\Dia21\obj\Debug\net7.0\ref\Dia21.dll
